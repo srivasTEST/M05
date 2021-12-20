@@ -18,6 +18,8 @@ public class GITTEST_1512 {
         // TODO code application logic here
         
         System.out.println("Prueba GIT");
+        
+        System.out.println("Segunda prueba GIT");
     }
     
 }

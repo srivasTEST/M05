@@ -16,6 +16,8 @@ public class GITTEST_1512 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("Prueba GIT");
     }
     
 }
